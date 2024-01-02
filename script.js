@@ -1,4 +1,4 @@
-function () {
+(function () {
     'use strict';
     
     let convertType = "miles";
@@ -57,3 +57,4 @@ function () {
     }
 });
 });
+
