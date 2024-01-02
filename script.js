@@ -39,13 +39,14 @@
     // convert K to M 0.621371192
     if (convertType == "miles") {
     const converted = (distance * 1.609344). toFixed(3);
-    answerDiv.innerHTML = '${distance} miles converts to ${converted} kilometers';
+    answerDiv.innerHTML = `${distance} miles converts to ${converted} kilometers`;
     
     }
     
     else {
     const converted = (distance * 0.621371192). toFixed(3);
-    answerDiv. innerHTML = '${distance} kilometers converts to ${converted} miles';
+    answerDiv.innerHTML = `${distance} kilometers converts to ${converted} miles`;
+
     
     }
         
