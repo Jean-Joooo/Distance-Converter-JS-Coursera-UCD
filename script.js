@@ -18,7 +18,7 @@
     
     }
     
-    else if (key = 'KeyM') {
+    else if (key === 'KeyM') {
     convertType = 'miles';
     heading.innerHTML = "Miles to Kilometers Converter";
     intro.innerHTML = "Type in a number of miles and click the button to convert thedistance to kilometers.";
