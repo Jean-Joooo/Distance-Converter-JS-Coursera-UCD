@@ -29,9 +29,9 @@
 
    form.addEventListener ('submit', function (event) {
 
-    event.preventDefault();
+   event.preventDefault();
 
-    var distance = parseFloat(document.getElementById('distance').value);
+    const distance = parseFloat(document.getElementById('distance').value);
     
     
     if (distance) {
