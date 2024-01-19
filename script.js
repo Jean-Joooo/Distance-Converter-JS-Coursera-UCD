@@ -14,7 +14,7 @@
             convertType = 'kilometers';
             heading.innerHTML = "Kilometers to Miles Converter";
             intro.innerHTML = "Type in a number of kilometers and click the button to convert the distance to miles.";
-        } else if (key === 'KeyM') {
+        } else if (key === 'KeyI') {
             convertType = 'miles';
             heading.innerHTML = "Miles to Kilometers Converter";
             intro.innerHTML = "Type in a number of miles and click the button to convert the distance to kilometers.";
