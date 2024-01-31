@@ -1,4 +1,4 @@
-Coursera UC Davis JavaScript Practice Exercise: Distance Converter -------> https://jean-joooo.github.io/AdvancedConverter-JS-Coursera-UCD/ 
+Coursera UC Davis JavaScript Practice Exercise: Distance Converter -----> https://jean-joooo.github.io/AdvancedConverter-JS-Coursera-UCD/ 
 
 In this JavaScript practice exercise, I engaged in creating a Distance Converter that seamlessly converts between miles and kilometers. The task involved implementing a user-friendly interface allowing users to input distances in either miles or kilometers and instantly obtain the converted result.
 
