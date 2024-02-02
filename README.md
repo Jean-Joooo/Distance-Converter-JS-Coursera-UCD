@@ -2,13 +2,13 @@ Coursera UC Davis JavaScript Practice Exercise: Distance Converter -----> https:
 
 In this JavaScript practice exercise, I involved myself in the creation of a Distance Converter that seamlessly converts between miles and kilometers. The task involved implementing a user-friendly interface allowing users to input distances in either miles or kilometers and instantly obtain the converted result.
 
-Key Objectives
+Key Objectives:
 - Develop a Distance Converter with a clean and intuitive user interface.
 - Allow users to input distances in either miles or kilometers.
 - Dynamically update the converted result as users input values.
 - Implement two-way conversion: miles to kilometers and kilometers to miles.
 
-Implementation
+Implementation:
 - Use of HTML to create an input form for user interaction.
 - Implemented JavaScript to capture user input and perform distance conversion calculations.
 - Ensured real-time updates of the converted result as users input values.
