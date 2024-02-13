@@ -1,6 +1,6 @@
-Exercise Coursera UC Davis JavaScript | Creation of a distance converter 
+Exercise Coursera UC Davis JavaScript
 
--------> https://jean-joooo.github.io/Distance-Converter-JS-Coursera-UCD/
+Creation of a distance converter ----> https://jean-joooo.github.io/Distance-Converter-JS-Coursera-UCD/
 
 The task involved implementing a user-friendly interface allowing users to input distances in either miles or kilometers and instantly obtain the converted result.
 
