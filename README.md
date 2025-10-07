@@ -1,4 +1,4 @@
-# Coursera | UC Davis courses: JavaScript Exercise
+## Coursera | UC Davis courses: JavaScript Exercise
 
 Creation of a distance converter ----> https://jean-joooo.github.io/Distance-Converter-JS-Coursera-UCD/
 
